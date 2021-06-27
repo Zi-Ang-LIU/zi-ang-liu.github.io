@@ -98,11 +98,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "***"
   location         : "Okayama University"
-  email            : "liu.ziang@okayama-u.ac.jp"
+  email            : # "liu.ziang@okayama-u.ac.jp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:liu.ziang@okayama-u.ac.jp"
+      url: "mailto:liu.ziang@okayama-u.ac.jp"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://zi-ang-liu.github.io/"
@@ -124,6 +124,9 @@ author:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Ziang_Liu6/"
+    - label: "Google"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.co.jp/citations?user=_G5ufOEAAAAJ/"
 
 # Site Footer
 footer:
