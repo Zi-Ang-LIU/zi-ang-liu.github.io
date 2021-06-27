@@ -114,13 +114,16 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "http://github.com/zi-ang-liu/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-1364-3502/"
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
-      url: "https://instagram.com/"
+      url: "https://www.researchgate.net/profile/Ziang_Liu6/"
 
 # Site Footer
 footer:
