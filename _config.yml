@@ -97,7 +97,7 @@ author:
   name             : "Ziang Liu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "***"
-  location         : "Okayama"
+  location         : "Okayama University"
   email            : "liu.ziang@okayama-u.ac.jp"
   links:
     - label: "Email"
@@ -118,6 +118,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Researchgate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://instagram.com/"
 
 # Site Footer
 footer:
