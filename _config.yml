@@ -124,8 +124,8 @@ author:
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Ziang_Liu6/"
-    - label: "Google"
-      icon: "fab fa-fw fa-google"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.co.jp/citations?user=_G5ufOEAAAAJ/"
 
 # Site Footer
