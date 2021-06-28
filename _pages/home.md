@@ -9,8 +9,7 @@ excerpt: >
   Department of Intelligent Mechanical Systems,<br />
   Division of Industrial Innovation Sciences,<br />
   Graduate School of Natural Science and Technology,<br />
-  Okayama University
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.23.0">Latest release v4.23.0</a></small>
+  <a href="https://www.okayama-u.ac.jp/">Okayama University</a>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"
