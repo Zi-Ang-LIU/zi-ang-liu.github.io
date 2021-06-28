@@ -6,7 +6,7 @@ author_profile: "true"
 toc: true
 ---
 
-# Journal papers
+## Journal papers
 
 5. Ziang Liu, Tatsushi Nishi, "Multipopulation Ensemble Particle Swarm Optimizer for Engineering Design Problems", Mathematical Problems in Engineering, vol. 2020, Article ID 1450985, 30 pages, 2020.
 
@@ -18,7 +18,7 @@ toc: true
 
 1. 刘子昂,高彦平,刘新亮,王雯. 基于主成分聚类分析的农产品物流评价[J]. 江苏农业科学,2016,44(12):553-556.
 
-# Conforence papers
+## Conforence papers
 
 3. Ziang Liu and Tatsushi Nishi, "Adaptive comprehensive learning particle swarm optimization with a parameter control method," in 2021 International Symposium on Scheduling (ISS), virtual, June. 2021, pp. 66-68. ISS, 2021.
 
@@ -26,7 +26,7 @@ toc: true
 
 1. Ziang Liu and Tatsushi Nishi, "Analysis of evolutionary stability of just-in-time purchasing," in 2019 International Symposium on Scheduling (ISS), Matsue, Shimane, Japan, July. 2019, pp. 75-78. ISS, 2019.
 
-# 日本国内会議
+## 日本国内会議
 
 3. Ziang Liu and Tatsushi Nishi, “Multi-population Ensemble Particle Swarm Optimizer with Selection Mechanism and Mutation Mechanism”, 第65回システム制御情報学会研究発表講演会(SCI'21), 2021年5月, pp. 770-773
 
