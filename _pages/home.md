@@ -1,37 +1,11 @@
 ---
-layout: splash
+title: ""
 permalink: /
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  # overlay_image: /assets/images/mm-home-page-feature.jpg
-excerpt: >
-  Department of Intelligent Mechanical Systems,<br />
-  Division of Industrial Innovation Sciences,<br />
-  Graduate School of Natural Science and Technology,<br />
-  <a href="https://www.okayama-u.ac.jp/">Okayama University</a>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+layout: "archive"
+author_profile: "true"
+toc: true
 ---
-
-{% include feature_row %}
+# Research Interests
+- Supply chain management
+- Game theory
+- Swarm intelligence
