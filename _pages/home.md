@@ -5,11 +5,17 @@ layout: "archive"
 author_profile: "true"
 toc: true
 ---
+
+Ziang Liu (劉 子昂), Ph.D.,
+Assistant Professor, 
+Graduate School of Natural Science and Technology,
+Okayama University, Japan
+Email: liu.ziang[at]okayama-u.ac.jp
+
 # Research Interests
 - Supply chain management
 - Game theory
 - Swarm intelligence
 
 # Awards
-- Dec 2019, Macau, Best paper award
-IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2019). 
+- IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2019). Dec 2019, Macau, Best paper award.
