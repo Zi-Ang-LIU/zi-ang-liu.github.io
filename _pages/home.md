@@ -8,7 +8,7 @@ toc: true
 
 __Ziang Liu__  
 Assistant Professor,   
-Graduate School of Natural Science and Technology, 
+Graduate School of Natural Science and Technology,   
 Okayama University.   
 Email: liu.ziang[at]okayama-u.ac.jp   
 
