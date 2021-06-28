@@ -120,7 +120,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0002-1364-3502/"
+      url: "https://orcid.org/0000-0002-1364-3502"
     - label: "Researchgate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Ziang_Liu6/"

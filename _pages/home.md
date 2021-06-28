@@ -23,3 +23,6 @@ Email: liu.ziang[at]okayama-u.ac.jp
 # Membership
 - Japan Society of Mechanical Engineers (JSME)
 - The Institute of Systems, Control and Information Engineers
+
+# Program Committee
+- Program Committee Member, The 65th Annual Conference of the Institute of Systems, Control and Information Engineers (SCI’21)
