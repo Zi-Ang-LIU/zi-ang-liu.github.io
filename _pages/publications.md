@@ -3,6 +3,7 @@ title: "Publications"
 permalink: /publications/
 layout: "archive"
 author_profile: "true"
+toc: true
 ---
 
 ## Journal papers
