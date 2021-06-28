@@ -6,6 +6,8 @@ main:
     url: /course/
   - title: "Links"
     url: /links/
+  - title: "日本語"
+    url: /jp/
   - title: "知的システム計画学研究室"
     url: http://forest.sys.okayama-u.ac.jp/nishilab/
   # - title: "Quick-Start Guide"
