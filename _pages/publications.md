@@ -7,7 +7,7 @@ toc: true
 ---
 
 ## Journal papers
-
+ {% include toc %} 
 5. Ziang Liu, Tatsushi Nishi, "Multipopulation Ensemble Particle Swarm Optimizer for Engineering Design Problems", Mathematical Problems in Engineering, vol. 2020, Article ID 1450985, 30 pages, 2020.
 
 4. Tatsushi Nishi, Michiko Matsuda, Mao Hasegawa, Roghayyeh Alizadeh, Ziang Liu, Takuto Terunuma, “Automatic Construction of Virtual Supply Chain as Multi-Agent System Using Enterprise E-Catalogues,” International Journal of Automation Technology, Vol. 14, No. 5, pp. 713-722, 2020.
