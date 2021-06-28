@@ -4,6 +4,7 @@ permalink: /publications/
 layout: "archive"
 author_profile: "true"
 toc: true
+toc_sticky: true
 ---
 
 ## Journal papers
@@ -33,5 +34,3 @@ toc: true
 2. Ziang Liu and Tatsushi Nishi, “Particle swarm optimization algorithm with multiple strategies for continuous optimization problems” スケジューリング・シンポジウム2020(SS2020), 大阪,2020年9月, pp. 143-148.
 
 1. 劉子昂, 西竜志, “生産者と販売者の価格決定とチャネル構造を考慮した循環型サプライチェーンにおける政府規制の影響,” スケジューリング・シンポジウム2019(SS2019), 筑波,2019年9月, pp. 31-36.
-
- {% include toc %} 
