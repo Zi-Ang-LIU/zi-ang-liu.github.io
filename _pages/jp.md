@@ -6,8 +6,7 @@ author_profile: "true"
 toc: true
 ---
 
-__劉　子昂__  
-   
+__劉　子昂__　  
 岡山大学学術研究院自然科学学域   
 Email: liu.ziang[at]okayama-u.ac.jp
 住所: 〒700-8530 岡山市北区津島中3-1-1   
