@@ -19,3 +19,7 @@ Email: liu.ziang[at]okayama-u.ac.jp
 
 # Awards
 - IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2019). Dec 2019, Macau, Best paper award.
+
+# Membership
+- Japan Society of Mechanical Engineers (JSME)
+- The Institute of Systems, Control and Information Engineers
