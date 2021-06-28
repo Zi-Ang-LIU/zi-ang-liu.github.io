@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "劉子昂"
+title                    : "Ziang Liu"
 title_separator          : "-"
-subtitle                 : "Ziang Liu"
+subtitle                 : "劉子昂"
 name                     : "Ziang Liu"
 description              : "Assistant Professor"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
