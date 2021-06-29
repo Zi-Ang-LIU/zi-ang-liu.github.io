@@ -12,17 +12,21 @@ toc_sticky: true
 5. Ziang Liu, Tatsushi Nishi, "Multipopulation Ensemble Particle Swarm Optimizer for Engineering Design Problems", Mathematical Problems in Engineering, vol. 2020, Article ID 1450985, 30 pages, 2020.   
 [DOI](https://doi.org/10.1155/2020/1450985 "https://doi.org/10.1155/2020/1450985"), [Code](https://github.com/zi-ang-liu/MPEPSO)   
 
-4. Tatsushi Nishi, Michiko Matsuda, Mao Hasegawa, Roghayyeh Alizadeh, Ziang Liu, Takuto Terunuma, “Automatic Construction of Virtual Supply Chain as Multi-Agent System Using Enterprise E-Catalogues,” International Journal of Automation Technology, Vol. 14, No. 5, pp. 713-722, 2020.
+4. Tatsushi Nishi, Michiko Matsuda, Mao Hasegawa, Roghayyeh Alizadeh, Ziang Liu, Takuto Terunuma, “Automatic Construction of Virtual Supply Chain as Multi-Agent System Using Enterprise E-Catalogues,” International Journal of Automation Technology, Vol. 14, No. 5, pp. 713-722, 2020.   
+[DOI](https://doi.org/10.20965/ijat.2020.p0713 "https://doi.org/10.20965/ijat.2020.p0713")   
 
-3. Ziang Liu and Tatsushi Nishi, “Analyzing just-in-time purchasing strategy in supply chains using an evolutionary game approach,” Journal of Advanced Mechanical Design, Systems, and Manufacturing, vol. 14, no. 5, p. JAMDSM0070, 2020.
+3. Ziang Liu and Tatsushi Nishi, “Analyzing just-in-time purchasing strategy in supply chains using an evolutionary game approach,” Journal of Advanced Mechanical Design, Systems, and Manufacturing, vol. 14, no. 5, p. JAMDSM0070, 2020.   
+[DOI](https://doi.org/10.1299/jamdsm.2020jamdsm0070 "https://doi.org/10.1299/jamdsm.2020jamdsm0070")
 
-2. Ziang Liu and Tatsushi Nishi, “Government Regulations on Closed-Loop Supply Chain with Evolutionarily Stable Strategy,” Sustainability, vol. 11, no. 18, p. 5030, Sep. 2019. 
+2. Ziang Liu and Tatsushi Nishi, “Government Regulations on Closed-Loop Supply Chain with Evolutionarily Stable Strategy,” Sustainability, vol. 11, no. 18, p. 5030, Sep. 2019.   
+[DOI](https://doi.org/10.3390/su11185030 "https://doi.org/10.3390/su11185030")   
 
-1. 刘子昂,高彦平,刘新亮,王雯. 基于主成分聚类分析的农产品物流评价[J]. 江苏农业科学,2016,44(12):553-556.
+1. 刘子昂,高彦平,刘新亮,王雯. 基于主成分聚类分析的农产品物流评价[J]. 江苏农业科学,2016,44(12):553-556.   
+[DOI](https://doi.org/10.15889/j.issn.1002-1302.2016.12.162 "https://doi.org/10.15889/j.issn.1002-1302.2016.12.162")
 
 ## Conforence papers
 
-3. Ziang Liu and Tatsushi Nishi, "Adaptive comprehensive learning particle swarm optimization with a parameter control method," in 2021 International Symposium on Scheduling (ISS), virtual, June. 2021, pp. 66-68. ISS, 2021.
+3. Ziang Liu and Tatsushi Nishi, "Adaptive comprehensive learning particle swarm optimization with a parameter control method," in 2021 International Symposium on Scheduling (ISS), virtual, June. 2021, pp. 66-68. ISS, 2021.   
 
 2. Ziang Liu and Tatsushi Nishi, “An Evolutionary Game Model in Closed-Loop Supply Chain,” in 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Macao, China, Dec. 2019, pp. 896–900. 
 
