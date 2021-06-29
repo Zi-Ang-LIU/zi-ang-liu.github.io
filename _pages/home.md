@@ -18,7 +18,7 @@ Email: liu.ziang[at]okayama-u.ac.jp
 - Swarm intelligence
 
 ## Awards
-- IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2019). Dec 2019, Macau, Best paper award.
+- IEEE International Conference on Industrial Engineering and Engineering Management (IEEM 2019). Dec 2019, Macau, Best paper award. [Link] (http://ieem2019.org/public.asp?page=Awards.htm)
 
 ## Membership
 - Japan Society of Mechanical Engineers (JSME)
