@@ -28,7 +28,7 @@ toc_sticky: true
 
 3. Ziang Liu and Tatsushi Nishi, "Adaptive comprehensive learning particle swarm optimization with a parameter control method," in 2021 International Symposium on Scheduling (ISS), virtual, June. 2021, pp. 66-68. ISS, 2021.   
 
-2. Ziang Liu and Tatsushi Nishi, “An Evolutionary Game Model in Closed-Loop Supply Chain,” in 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Macao, China, Dec. 2019, pp. 896–900. 
+2. Ziang Liu and Tatsushi Nishi, “An Evolutionary Game Model in Closed-Loop Supply Chain,” in 2019 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), Macao, China, Dec. 2019, pp. 896–900. [DOI](https://doi.org/10.1109/IEEM44572.2019.8978741 "https://doi.org/10.1109/IEEM44572.2019.8978741")   
 
 1. Ziang Liu and Tatsushi Nishi, "Analysis of evolutionary stability of just-in-time purchasing," in 2019 International Symposium on Scheduling (ISS), Matsue, Shimane, Japan, July. 2019, pp. 75-78. ISS, 2019.
 
