@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-layout: "archive"
+<!-- layout: "archive" -->
 author_profile: "true"
 toc: true
 toc_sticky: true
